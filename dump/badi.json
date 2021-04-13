@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.10\/stats;type=week;week=1",
+        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.10\/stats",
         "team": [
             [
                 {
@@ -79,43 +79,43 @@
             ],
             {
                 "team_stats": {
-                    "coverage_type": "week",
-                    "week": "1",
+                    "coverage_type": "season",
+                    "season": "2021",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "87\/308"
+                                "value": ""
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "53"
+                                "value": "55"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "148"
+                                "value": "156"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".983"
+                                "value": ".985"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".356"
+                                "value": ".347"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "-1"
+                                "value": "0"
                             }
                         },
                         {
@@ -163,22 +163,13 @@
                     ]
                 },
                 "team_points": {
-                    "coverage_type": "week",
-                    "week": "1",
-                    "total": "3"
-                },
-                "team_remaining_games": {
-                    "coverage_type": "week",
-                    "week": "1",
-                    "total": {
-                        "remaining_games": 0,
-                        "live_games": 0,
-                        "completed_games": 132
-                    }
+                    "coverage_type": "season",
+                    "season": "2021",
+                    "total": "0"
                 }
             }
         ],
-        "time": "42.431116104126ms",
+        "time": "38.82908821106ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }
