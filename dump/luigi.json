@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.4\/stats",
+        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.4\/stats;type=week;week=1",
         "team": [
             [
                 {
@@ -79,37 +79,37 @@
             ],
             {
                 "team_stats": {
-                    "coverage_type": "season",
-                    "season": "2021",
+                    "coverage_type": "week",
+                    "week": "1",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": ""
+                                "value": "77\/281"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "46"
+                                "value": "44"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "145"
+                                "value": "137"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".977"
+                                "value": ".975"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".360"
+                                "value": ".350"
                             }
                         },
                         {
@@ -127,7 +127,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "90.2"
+                                "value": "82.0"
                             }
                         },
                         {
@@ -139,37 +139,46 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "104"
+                                "value": "88"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "0.88"
+                                "value": "0.93"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "8"
+                                "value": "7"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "2"
+                                "value": "1"
                             }
                         }
                     ]
                 },
                 "team_points": {
-                    "coverage_type": "season",
-                    "season": "2021",
-                    "total": "0"
+                    "coverage_type": "week",
+                    "week": "1",
+                    "total": "6"
+                },
+                "team_remaining_games": {
+                    "coverage_type": "week",
+                    "week": "1",
+                    "total": {
+                        "remaining_games": 0,
+                        "live_games": 0,
+                        "completed_games": 163
+                    }
                 }
             }
         ],
-        "time": "27.788877487183ms",
+        "time": "41.307926177979ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

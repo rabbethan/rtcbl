@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.7\/stats",
+        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.7\/stats;type=week;week=1",
         "team": [
             [
                 {
@@ -79,37 +79,37 @@
             ],
             {
                 "team_stats": {
-                    "coverage_type": "season",
-                    "season": "2021",
+                    "coverage_type": "week",
+                    "week": "1",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": ""
+                                "value": "85\/318"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "58"
+                                "value": "51"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "166"
+                                "value": "157"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".987"
+                                "value": ".982"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".322"
+                                "value": ".329"
                             }
                         },
                         {
@@ -127,7 +127,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "91.1"
+                                "value": "86.2"
                             }
                         },
                         {
@@ -139,13 +139,13 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "113"
+                                "value": "111"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "0.99"
+                                "value": "0.90"
                             }
                         },
                         {
@@ -163,13 +163,22 @@
                     ]
                 },
                 "team_points": {
-                    "coverage_type": "season",
-                    "season": "2021",
-                    "total": "0"
+                    "coverage_type": "week",
+                    "week": "1",
+                    "total": "8"
+                },
+                "team_remaining_games": {
+                    "coverage_type": "week",
+                    "week": "1",
+                    "total": {
+                        "remaining_games": 0,
+                        "live_games": 0,
+                        "completed_games": 160
+                    }
                 }
             }
         ],
-        "time": "76.337099075317ms",
+        "time": "48.203945159912ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }
