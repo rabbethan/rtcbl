@@ -70,7 +70,7 @@
                                 "nickname": "Jeorge",
                                 "guid": "A7CLNZZ3GAP666TXYB3NG27EQM",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "594",
+                                "felo_score": "590",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -97,25 +97,25 @@
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "154"
+                                "value": "159"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".973"
+                                "value": ".974"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".353"
+                                "value": ".355"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "3"
+                                "value": "4"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "28.864860534668ms",
+        "time": "25.475978851318ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

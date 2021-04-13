@@ -70,7 +70,7 @@
                                 "nickname": "~",
                                 "guid": "H2ECUE2NSRU63GI3A7AAEHPOGU",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/4594\/38088347140_abbfe6_64sq.jpg",
-                                "felo_score": "594",
+                                "felo_score": "599",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,25 +91,25 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "43"
+                                "value": "46"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "137"
+                                "value": "145"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".975"
+                                "value": ".977"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".350"
+                                "value": ".360"
                             }
                         },
                         {
@@ -127,7 +127,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "82.0"
+                                "value": "90.2"
                             }
                         },
                         {
@@ -139,25 +139,25 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "88"
+                                "value": "104"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "0.93"
+                                "value": "0.88"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "7"
+                                "value": "8"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "1"
+                                "value": "2"
                             }
                         }
                     ]
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "27.640819549561ms",
+        "time": "27.788877487183ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

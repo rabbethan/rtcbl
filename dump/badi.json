@@ -70,7 +70,7 @@
                                 "nickname": "Badi",
                                 "guid": "26SZPNDU5AIHLQOCHT6R6YKASU",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "594",
+                                "felo_score": "589",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,31 +91,31 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "53"
+                                "value": "55"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "147"
+                                "value": "156"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".983"
+                                "value": ".985"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".353"
+                                "value": ".347"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "-1"
+                                "value": "0"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "47.814846038818ms",
+        "time": "27.065992355347ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

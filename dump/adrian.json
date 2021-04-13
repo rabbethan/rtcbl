@@ -70,7 +70,7 @@
                                 "nickname": "Adrian",
                                 "guid": "LOZA42Y46KFDQUNGA7XS7FL5SM",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "594",
+                                "felo_score": "597",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,31 +91,31 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "26"
+                                "value": "29"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "102"
+                                "value": "105"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".987"
+                                "value": ".985"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".302"
+                                "value": ".298"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "6"
+                                "value": "9"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "24.394989013672ms",
+        "time": "25.908946990967ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

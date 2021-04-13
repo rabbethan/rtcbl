@@ -32,10 +32,10 @@
                     "waiver_priority": 6
                 },
                 {
-                    "faab_balance": "101"
+                    "faab_balance": "76"
                 },
                 {
-                    "number_of_moves": "20"
+                    "number_of_moves": "21"
                 },
                 {
                     "number_of_trades": "1"
@@ -44,7 +44,7 @@
                     "roster_adds": {
                         "coverage_type": "week",
                         "coverage_value": 2,
-                        "value": "0"
+                        "value": "1"
                     }
                 },
                 [],
@@ -70,7 +70,7 @@
                                 "nickname": "Jose",
                                 "guid": "QHJTRJSKD7P2HPLHU6FUH36OQE",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "594",
+                                "felo_score": "591",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -97,19 +97,19 @@
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "131"
+                                "value": "136"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".977"
+                                "value": ".979"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".357"
+                                "value": ".349"
                             }
                         },
                         {
@@ -127,7 +127,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "59.1"
+                                "value": "66.1"
                             }
                         },
                         {
@@ -139,13 +139,13 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "62"
+                                "value": "65"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.33"
+                                "value": "1.28"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "58.291912078857ms",
+        "time": "27.915954589844ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

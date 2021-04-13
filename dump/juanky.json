@@ -32,10 +32,10 @@
                     "waiver_priority": 9
                 },
                 {
-                    "faab_balance": "81"
+                    "faab_balance": "78"
                 },
                 {
-                    "number_of_moves": "14"
+                    "number_of_moves": "15"
                 },
                 {
                     "number_of_trades": 0
@@ -44,7 +44,7 @@
                     "roster_adds": {
                         "coverage_type": "week",
                         "coverage_value": 2,
-                        "value": "0"
+                        "value": "1"
                     }
                 },
                 [],
@@ -70,7 +70,7 @@
                                 "nickname": "Juanky Robaina",
                                 "guid": "PVBUYNMHVCJRC3JDSXTUEGP6Z4",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/4576\/37727582890_54b83d_64sq.jpg",
-                                "felo_score": "526",
+                                "felo_score": "527",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,25 +91,25 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "38"
+                                "value": "41"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "120"
+                                "value": "133"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".987"
+                                "value": ".988"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".341"
+                                "value": ".340"
                             }
                         },
                         {
@@ -127,7 +127,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "52.0"
+                                "value": "65.0"
                             }
                         },
                         {
@@ -139,19 +139,19 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "61"
+                                "value": "77"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.21"
+                                "value": "1.09"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "3"
+                                "value": "5"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "25.002002716064ms",
+        "time": "29.069900512695ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

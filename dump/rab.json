@@ -73,7 +73,7 @@
                                 "guid": "VHRXRHHWJVLQWOB75OTYULWWS4",
                                 "is_current_login": "1",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/4576\/38787056396_24384a_64sq.jpg",
-                                "felo_score": "521",
+                                "felo_score": "519",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -94,31 +94,31 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "57"
+                                "value": "59"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "164"
+                                "value": "183"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".984"
+                                "value": ".983"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".339"
+                                "value": ".359"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "4"
+                                "value": "5"
                             }
                         },
                         {
@@ -172,7 +172,7 @@
                 }
             }
         ],
-        "time": "69.617033004761ms",
+        "time": "26.845932006836ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }
