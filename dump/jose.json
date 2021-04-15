@@ -91,31 +91,31 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "40"
+                                "value": "47"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "136"
+                                "value": "158"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".979"
+                                "value": ".980"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".349"
+                                "value": ".355"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "4"
+                                "value": "3"
                             }
                         },
                         {
@@ -127,7 +127,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "66.1"
+                                "value": "71.2"
                             }
                         },
                         {
@@ -139,13 +139,13 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "65"
+                                "value": "71"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.28"
+                                "value": "1.34"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "25.760889053345ms",
+        "time": "56.223154067993ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

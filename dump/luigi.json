@@ -35,7 +35,7 @@
                     "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": "12"
+                    "number_of_moves": "13"
                 },
                 {
                     "number_of_trades": "1"
@@ -44,7 +44,7 @@
                     "roster_adds": {
                         "coverage_type": "week",
                         "coverage_value": 2,
-                        "value": "0"
+                        "value": "1"
                     }
                 },
                 [],
@@ -91,25 +91,25 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "46"
+                                "value": "55"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "145"
+                                "value": "174"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".977"
+                                "value": ".976"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".360"
+                                "value": ".347"
                             }
                         },
                         {
@@ -127,7 +127,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "90.2"
+                                "value": "106.1"
                             }
                         },
                         {
@@ -139,13 +139,13 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "104"
+                                "value": "120"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "0.88"
+                                "value": "1.03"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "73.724985122681ms",
+        "time": "25.136947631836ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

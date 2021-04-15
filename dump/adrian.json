@@ -35,7 +35,7 @@
                     "faab_balance": "111"
                 },
                 {
-                    "number_of_moves": "7"
+                    "number_of_moves": "8"
                 },
                 {
                     "number_of_trades": 0
@@ -44,7 +44,7 @@
                     "roster_adds": {
                         "coverage_type": "week",
                         "coverage_value": 2,
-                        "value": "0"
+                        "value": "1"
                     }
                 },
                 [],
@@ -91,31 +91,31 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "29"
+                                "value": "30"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "105"
+                                "value": "120"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".985"
+                                "value": ".987"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".298"
+                                "value": ".290"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "9"
+                                "value": "12"
                             }
                         },
                         {
@@ -127,7 +127,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "53.0"
+                                "value": "66.2"
                             }
                         },
                         {
@@ -139,25 +139,25 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "66"
+                                "value": "78"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "0.92"
+                                "value": "1.1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "4"
+                                "value": "5"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "5"
+                                "value": "7"
                             }
                         }
                     ]
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "24.975061416626ms",
+        "time": "86.684942245483ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

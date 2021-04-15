@@ -91,25 +91,25 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "41"
+                                "value": "50"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "133"
+                                "value": "161"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".988"
+                                "value": ".990"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".340"
+                                "value": ".336"
                             }
                         },
                         {
@@ -127,7 +127,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "65.0"
+                                "value": "76.1"
                             }
                         },
                         {
@@ -139,13 +139,13 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "77"
+                                "value": "93"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.09"
+                                "value": "1.06"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "74.607849121094ms",
+        "time": "52.34694480896ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }
