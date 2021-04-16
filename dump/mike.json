@@ -35,7 +35,7 @@
                     "faab_balance": "89"
                 },
                 {
-                    "number_of_moves": "10"
+                    "number_of_moves": "13"
                 },
                 {
                     "number_of_trades": "1"
@@ -44,7 +44,7 @@
                     "roster_adds": {
                         "coverage_type": "week",
                         "coverage_value": 2,
-                        "value": "1"
+                        "value": "4"
                     }
                 },
                 [],
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "37.375211715698ms",
+        "time": "99.441051483154ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }
