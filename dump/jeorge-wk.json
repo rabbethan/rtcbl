@@ -85,7 +85,7 @@
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "28\/113"
+                                "value": "29\/114"
                             }
                         },
                         {
@@ -97,7 +97,7 @@
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": 56
+                                "value": 57
                             }
                         },
                         {
@@ -109,7 +109,7 @@
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".358"
+                                "value": ".363"
                             }
                         },
                         {
@@ -178,7 +178,7 @@
                 }
             }
         ],
-        "time": "34.909963607788ms",
+        "time": "38.172960281372ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }
