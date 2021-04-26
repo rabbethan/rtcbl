@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.6\/stats;type=week;week=1",
+        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.6\/stats;type=week;week=3",
         "team": [
             [
                 {
@@ -35,7 +35,7 @@
                     "faab_balance": "111"
                 },
                 {
-                    "number_of_moves": "8"
+                    "number_of_moves": "17"
                 },
                 {
                     "number_of_trades": 0
@@ -43,8 +43,8 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 2,
-                        "value": "1"
+                        "coverage_value": 4,
+                        "value": "0"
                     }
                 },
                 [],
@@ -70,7 +70,7 @@
                                 "nickname": "Adrian",
                                 "guid": "LOZA42Y46KFDQUNGA7XS7FL5SM",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "597",
+                                "felo_score": "596",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -80,42 +80,42 @@
             {
                 "team_stats": {
                     "coverage_type": "week",
-                    "week": "1",
+                    "week": "3",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "58\/273"
+                                "value": "46\/180"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "26"
+                                "value": "31"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "102"
+                                "value": "90"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".987"
+                                "value": ".977"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".302"
+                                "value": ".345"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "6"
+                                "value": "4"
                             }
                         },
                         {
@@ -127,58 +127,58 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "53.0"
+                                "value": "35.2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "30",
-                                "value": "0"
+                                "value": "1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "66"
+                                "value": "41"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "0.92"
+                                "value": "1.18"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "4"
+                                "value": "2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "5"
+                                "value": "2"
                             }
                         }
                     ]
                 },
                 "team_points": {
                     "coverage_type": "week",
-                    "week": "1",
-                    "total": "7"
+                    "week": "3",
+                    "total": "6"
                 },
                 "team_remaining_games": {
                     "coverage_type": "week",
-                    "week": "1",
+                    "week": "3",
                     "total": {
                         "remaining_games": 0,
                         "live_games": 0,
-                        "completed_games": 155
+                        "completed_games": 107
                     }
                 }
             }
         ],
-        "time": "53.870916366577ms",
+        "time": "41.434049606323ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

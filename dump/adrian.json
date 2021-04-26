@@ -35,7 +35,7 @@
                     "faab_balance": "111"
                 },
                 {
-                    "number_of_moves": "8"
+                    "number_of_moves": "17"
                 },
                 {
                     "number_of_trades": 0
@@ -43,8 +43,8 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 2,
-                        "value": "1"
+                        "coverage_value": 4,
+                        "value": "0"
                     }
                 },
                 [],
@@ -70,7 +70,7 @@
                                 "nickname": "Adrian",
                                 "guid": "LOZA42Y46KFDQUNGA7XS7FL5SM",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "597",
+                                "felo_score": "596",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,31 +91,31 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "30"
+                                "value": "76"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "120"
+                                "value": "278"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".987"
+                                "value": ".983"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".290"
+                                "value": ".317"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "12"
+                                "value": "17"
                             }
                         },
                         {
@@ -127,37 +127,37 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "66.2"
+                                "value": "130.0"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "30",
-                                "value": "0"
+                                "value": "1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "78"
+                                "value": "157"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.1"
+                                "value": "1.10"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "5"
+                                "value": "9"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "7"
+                                "value": "9"
                             }
                         }
                     ]
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "31.50200843811ms",
+        "time": "31.346082687378ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }

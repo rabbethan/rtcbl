@@ -35,7 +35,7 @@
                     "faab_balance": "106"
                 },
                 {
-                    "number_of_moves": "7"
+                    "number_of_moves": "9"
                 },
                 {
                     "number_of_trades": 0
@@ -43,8 +43,8 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 2,
-                        "value": "3"
+                        "coverage_value": 4,
+                        "value": "0"
                     }
                 },
                 [],
@@ -70,7 +70,7 @@
                                 "nickname": "Jeorge",
                                 "guid": "A7CLNZZ3GAP666TXYB3NG27EQM",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "590",
+                                "felo_score": "588",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,31 +91,31 @@
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "52"
+                                "value": "99"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "191"
+                                "value": "315"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".980"
+                                "value": ".975"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".353"
+                                "value": ".334"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "7"
+                                "value": "12"
                             }
                         },
                         {
@@ -127,31 +127,31 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "65.1"
+                                "value": "116.2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "30",
-                                "value": "0"
+                                "value": "1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "63"
+                                "value": "121"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.07"
+                                "value": "1.16"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "5"
+                                "value": "10"
                             }
                         },
                         {
@@ -169,7 +169,7 @@
                 }
             }
         ],
-        "time": "27.352094650269ms",
+        "time": "27.183055877686ms",
         "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }
