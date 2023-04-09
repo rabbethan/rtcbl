@@ -1,41 +1,41 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.10\/stats",
+        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.10\/stats",
         "team": [
             [
                 {
-                    "team_key": "404.l.44177.t.10"
+                    "team_key": "422.l.59242.t.10"
                 },
                 {
                     "team_id": "10"
                 },
                 {
-                    "name": "Nippon Docudramas"
+                    "name": "Schmidt Happens"
                 },
                 [],
                 {
-                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/b1\/44177\/10"
+                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/b1\/59242\/10"
                 },
                 {
                     "team_logos": [
                         {
                             "team_logo": {
                                 "size": "large",
-                                "url": "https:\/\/yahoofantasysports-res.cloudinary.com\/image\/upload\/t_s192sq\/fantasy-logos\/0e2fdb92f897b44e2d786caf1c1d806431d9d5199c299db5ab9b2f975f440b08.png"
+                                "url": "https:\/\/yahoofantasysports-res.cloudinary.com\/image\/upload\/t_s192sq\/fantasy-logos\/a62b3b394e94f4668f018c0e0295b4290126963772d31ca168eaa008fee36198.jpg"
                             }
                         }
                     ]
                 },
                 [],
                 {
-                    "waiver_priority": 1
+                    "waiver_priority": 12
                 },
                 {
-                    "faab_balance": "215"
+                    "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": "5"
+                    "number_of_moves": 6
                 },
                 {
                     "number_of_trades": 0
@@ -43,8 +43,8 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 4,
-                        "value": "0"
+                        "coverage_value": 1,
+                        "value": "6"
                     }
                 },
                 [],
@@ -60,17 +60,18 @@
                     "auction_budget_total": "260"
                 },
                 {
-                    "auction_budget_spent": 285
+                    "auction_budget_spent": 260
                 },
                 {
                     "managers": [
                         {
                             "manager": {
                                 "manager_id": "10",
-                                "nickname": "Badi",
-                                "guid": "26SZPNDU5AIHLQOCHT6R6YKASU",
-                                "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "579",
+                                "nickname": "Mike J",
+                                "guid": "WQZJQGRQQLH6IEPTV53BKYK7B4",
+                                "is_commissioner": "1",
+                                "image_url": "https:\/\/s.yimg.com\/ag\/images\/4574\/37926067010_1ec658_64sq.jpg",
+                                "felo_score": "589",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -80,7 +81,7 @@
             {
                 "team_stats": {
                     "coverage_type": "season",
-                    "season": "2021",
+                    "season": "2023",
                     "stats": [
                         {
                             "stat": {
@@ -90,44 +91,50 @@
                         },
                         {
                             "stat": {
+                                "stat_id": "7",
+                                "value": "28"
+                            }
+                        },
+                        {
+                            "stat": {
                                 "stat_id": "13",
-                                "value": "109"
+                                "value": "42"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "335"
+                                "value": "133"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".985"
+                                "value": ".984"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".334"
+                                "value": ".315"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "5"
+                                "value": "3"
                             }
                         },
                         {
                             "stat": {
-                                "stat_id": "64",
+                                "stat_id": "66",
                                 "value": "0"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "136.2"
+                                "value": "49.0"
                             }
                         },
                         {
@@ -138,39 +145,45 @@
                         },
                         {
                             "stat": {
-                                "stat_id": "42",
-                                "value": "133"
+                                "stat_id": "37",
+                                "value": "32"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.35"
+                                "value": "1.39"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "stat_id": "57",
+                                "value": "8.63"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "7"
+                                "value": "3"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "0"
+                                "value": "6"
                             }
                         }
                     ]
                 },
                 "team_points": {
                     "coverage_type": "season",
-                    "season": "2021",
+                    "season": "2023",
                     "total": "0"
                 }
             }
         ],
-        "time": "73.017835617065ms",
-        "copyright": "Data provided by Yahoo! and STATS, LLC",
+        "time": "31.906843185425ms",
+        "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
 }

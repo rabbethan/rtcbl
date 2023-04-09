@@ -1,28 +1,28 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/404.l.44177.t.7\/stats;type=week;week=3",
+        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.9\/stats",
         "team": [
             [
                 {
-                    "team_key": "404.l.44177.t.7"
+                    "team_key": "422.l.59242.t.9"
                 },
                 {
-                    "team_id": "7"
+                    "team_id": "9"
                 },
                 {
-                    "name": "Schmidt Happens"
+                    "name": "Bay of Puigs"
                 },
                 [],
                 {
-                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/b1\/44177\/7"
+                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/b1\/59242\/9"
                 },
                 {
                     "team_logos": [
                         {
                             "team_logo": {
                                 "size": "large",
-                                "url": "https:\/\/yahoofantasysports-res.cloudinary.com\/image\/upload\/t_s192sq\/fantasy-logos\/f7dad3aae596c4ab6728aa5de798fc8893e55cbf5c70d05586fec658ba1e1e42.jpg"
+                                "url": "https:\/\/s.yimg.com\/cv\/apiv2\/default\/mlb\/mlb_4.png"
                             }
                         }
                     ]
@@ -32,19 +32,19 @@
                     "waiver_priority": 4
                 },
                 {
-                    "faab_balance": "89"
+                    "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": "17"
+                    "number_of_moves": 4
                 },
                 {
-                    "number_of_trades": "1"
+                    "number_of_trades": 0
                 },
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 4,
-                        "value": "1"
+                        "coverage_value": 1,
+                        "value": "4"
                     }
                 },
                 [],
@@ -60,18 +60,18 @@
                     "auction_budget_total": "260"
                 },
                 {
-                    "auction_budget_spent": 400
+                    "auction_budget_spent": 260
                 },
                 {
                     "managers": [
                         {
                             "manager": {
-                                "manager_id": "7",
-                                "nickname": "Mike J",
-                                "guid": "WQZJQGRQQLH6IEPTV53BKYK7B4",
-                                "image_url": "https:\/\/s.yimg.com\/ag\/images\/4574\/37926067010_1ec658_64sq.jpg",
-                                "felo_score": "620",
-                                "felo_tier": "silver"
+                                "manager_id": "9",
+                                "nickname": "Jeorge",
+                                "guid": "A7CLNZZ3GAP666TXYB3NG27EQM",
+                                "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "556",
+                                "felo_tier": "bronze"
                             }
                         }
                     ]
@@ -79,55 +79,61 @@
             ],
             {
                 "team_stats": {
-                    "coverage_type": "week",
-                    "week": "3",
+                    "coverage_type": "season",
+                    "season": "2023",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "67\/226"
+                                "value": ""
+                            }
+                        },
+                        {
+                            "stat": {
+                                "stat_id": "7",
+                                "value": "44"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "42"
+                                "value": "37"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "140"
+                                "value": "123"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".973"
+                                "value": ".992"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".343"
+                                "value": ".382"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "9"
+                                "value": "3"
                             }
                         },
                         {
                             "stat": {
-                                "stat_id": "64",
+                                "stat_id": "66",
                                 "value": "0"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "48.2"
+                                "value": "54.2"
                             }
                         },
                         {
@@ -138,48 +144,45 @@
                         },
                         {
                             "stat": {
-                                "stat_id": "42",
-                                "value": "50"
+                                "stat_id": "37",
+                                "value": "26"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.13"
+                                "value": "1.23"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "stat_id": "57",
+                                "value": "10.37"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "6"
+                                "value": "3"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "0"
+                                "value": "9"
                             }
                         }
                     ]
                 },
                 "team_points": {
-                    "coverage_type": "week",
-                    "week": "3",
-                    "total": "7"
-                },
-                "team_remaining_games": {
-                    "coverage_type": "week",
-                    "week": "3",
-                    "total": {
-                        "remaining_games": 0,
-                        "live_games": 0,
-                        "completed_games": 110
-                    }
+                    "coverage_type": "season",
+                    "season": "2023",
+                    "total": "0"
                 }
             }
         ],
-        "time": "62.780857086182ms",
-        "copyright": "Data provided by Yahoo! and STATS, LLC",
+        "time": "32.014131546021ms",
+        "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
 }
