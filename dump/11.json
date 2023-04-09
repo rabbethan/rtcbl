@@ -1,41 +1,41 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.10\/stats",
+        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.11\/stats",
         "team": [
             [
                 {
-                    "team_key": "422.l.59242.t.10"
+                    "team_key": "422.l.59242.t.11"
                 },
                 {
-                    "team_id": "10"
+                    "team_id": "11"
                 },
                 {
-                    "name": "Schmidt Happens"
+                    "name": "West Kendall Knuckleballers"
                 },
                 [],
                 {
-                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/b1\/59242\/10"
+                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/b1\/59242\/11"
                 },
                 {
                     "team_logos": [
                         {
                             "team_logo": {
                                 "size": "large",
-                                "url": "https:\/\/yahoofantasysports-res.cloudinary.com\/image\/upload\/t_s192sq\/fantasy-logos\/a62b3b394e94f4668f018c0e0295b4290126963772d31ca168eaa008fee36198.jpg"
+                                "url": "https:\/\/s.yimg.com\/cv\/apiv2\/default\/mlb\/mlb_4_a.png"
                             }
                         }
                     ]
                 },
                 [],
                 {
-                    "waiver_priority": 12
+                    "waiver_priority": 11
                 },
                 {
                     "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": 6
+                    "number_of_moves": 3
                 },
                 {
                     "number_of_trades": 0
@@ -44,7 +44,7 @@
                     "roster_adds": {
                         "coverage_type": "week",
                         "coverage_value": 1,
-                        "value": "6"
+                        "value": "3"
                     }
                 },
                 [],
@@ -66,13 +66,12 @@
                     "managers": [
                         {
                             "manager": {
-                                "manager_id": "10",
-                                "nickname": "Mike J",
-                                "guid": "WQZJQGRQQLH6IEPTV53BKYK7B4",
-                                "is_commissioner": "1",
-                                "image_url": "https:\/\/s.yimg.com\/ag\/images\/4574\/37926067010_1ec658_64sq.jpg",
-                                "felo_score": "589",
-                                "felo_tier": "bronze"
+                                "manager_id": "11",
+                                "nickname": "Adrian",
+                                "guid": "LOZA42Y46KFDQUNGA7XS7FL5SM",
+                                "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "631",
+                                "felo_tier": "silver"
                             }
                         }
                     ]
@@ -92,31 +91,31 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "28"
+                                "value": "39"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "42"
+                                "value": "46"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "133"
+                                "value": "117"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".984"
+                                "value": ".992"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".315"
+                                "value": ".332"
                             }
                         },
                         {
@@ -134,7 +133,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "49.0"
+                                "value": "65.2"
                             }
                         },
                         {
@@ -146,19 +145,19 @@
                         {
                             "stat": {
                                 "stat_id": "37",
-                                "value": "32"
+                                "value": "31"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.39"
+                                "value": "1.29"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": "8.63"
+                                "value": "9.46"
                             }
                         },
                         {
@@ -170,7 +169,7 @@
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "6"
+                                "value": "2"
                             }
                         }
                     ]
@@ -182,7 +181,7 @@
                 }
             }
         ],
-        "time": "31.906843185425ms",
+        "time": "31.605958938599ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

@@ -1,41 +1,41 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.1\/stats",
+        "yahoo:uri": "\/fantasy\/v2\/team\/412.l.84413.t.9\/stats",
         "team": [
             [
                 {
-                    "team_key": "422.l.59242.t.1"
+                    "team_key": "412.l.84413.t.9"
                 },
                 {
-                    "team_id": "1"
+                    "team_id": "9"
                 },
                 {
-                    "name": "Electric Ponies"
+                    "name": "The Fury"
                 },
                 [],
                 {
-                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/b1\/59242\/1"
+                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/b1\/84413\/9"
                 },
                 {
                     "team_logos": [
                         {
                             "team_logo": {
                                 "size": "large",
-                                "url": "https:\/\/s.yimg.com\/cv\/apiv2\/default\/mlb\/mlb_6.png"
+                                "url": "https:\/\/s.yimg.com\/cv\/apiv2\/default\/mlb\/mlb_6_f.png"
                             }
                         }
                     ]
                 },
                 [],
                 {
-                    "waiver_priority": 10
+                    "waiver_priority": 2
                 },
                 {
                     "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": 7
+                    "number_of_moves": 0
                 },
                 {
                     "number_of_trades": 0
@@ -43,7 +43,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 1,
+                        "coverage_value": 24,
                         "value": "0"
                     }
                 },
@@ -66,12 +66,12 @@
                     "managers": [
                         {
                             "manager": {
-                                "manager_id": "1",
-                                "nickname": "Michael",
-                                "guid": "PZOIWFQWSGPVWYNL5B5QKII7XU",
+                                "manager_id": "9",
+                                "nickname": "Ed",
+                                "guid": "T6FWOHNAKM2XY6BJAMO6I6FESM",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "708",
-                                "felo_tier": "gold"
+                                "felo_score": "545",
+                                "felo_tier": "bronze"
                             }
                         }
                     ]
@@ -80,7 +80,7 @@
             {
                 "team_stats": {
                     "coverage_type": "season",
-                    "season": "2023",
+                    "season": "2022",
                     "stats": [
                         {
                             "stat": {
@@ -91,98 +91,98 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "57"
+                                "value": "571"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "59"
+                                "value": "665"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "151"
+                                "value": "1959"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".993"
+                                "value": ".982"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".364"
+                                "value": ".313"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "3"
+                                "value": "41"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "66",
-                                "value": "0"
+                                "value": "6"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "52.2"
+                                "value": "942.1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "30",
-                                "value": "0"
+                                "value": "3"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "37",
-                                "value": "24"
+                                "value": "385"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.31"
+                                "value": "1.22"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": "9.06"
+                                "value": "9.21"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "4"
+                                "value": "70"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "0"
+                                "value": "31"
                             }
                         }
                     ]
                 },
                 "team_points": {
                     "coverage_type": "season",
-                    "season": "2023",
+                    "season": "2022",
                     "total": "0"
                 }
             }
         ],
-        "time": "30.190944671631ms",
-        "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
+        "time": "32.526016235352ms",
+        "copyright": "Data provided by Yahoo! and STATS, LLC",
         "refresh_rate": "60"
     }
 }
