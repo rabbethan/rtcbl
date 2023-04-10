@@ -187,13 +187,13 @@
                     "week": 1,
                     "total": {
                         "remaining_games": 0,
-                        "live_games": 1,
-                        "completed_games": 175
+                        "live_games": 0,
+                        "completed_games": 176
                     }
                 }
             }
         ],
-        "time": "79.895973205566ms",
+        "time": "56.248188018799ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

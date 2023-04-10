@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.12\/stats;type=week;week=0",
+        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.12\/stats;type=week;week=1",
         "team": [
             [
                 {
@@ -78,12 +78,12 @@
             {
                 "team_stats": {
                     "coverage_type": "week",
-                    "week": 1,
+                    "week": "1",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "94\/336"
+                                "value": "94\/337"
                             }
                         },
                         {
@@ -113,7 +113,7 @@
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".383"
+                                "value": ".382"
                             }
                         },
                         {
@@ -174,21 +174,21 @@
                 },
                 "team_points": {
                     "coverage_type": "week",
-                    "week": 1,
+                    "week": "1",
                     "total": 10
                 },
                 "team_remaining_games": {
                     "coverage_type": "week",
-                    "week": 1,
+                    "week": "1",
                     "total": {
                         "remaining_games": 0,
-                        "live_games": 2,
-                        "completed_games": 170
+                        "live_games": 0,
+                        "completed_games": 172
                     }
                 }
             }
         ],
-        "time": "59.710025787354ms",
+        "time": "48.511981964111ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

@@ -186,12 +186,12 @@
                     "total": {
                         "remaining_games": 0,
                         "live_games": 0,
-                        "completed_games": 171
+                        "completed_games": 172
                     }
                 }
             }
         ],
-        "time": "50.830841064453ms",
+        "time": "73.513984680176ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

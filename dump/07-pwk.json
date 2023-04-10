@@ -85,7 +85,7 @@
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "92\/344"
+                                "value": "92\/345"
                             }
                         },
                         {
@@ -115,7 +115,7 @@
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".343"
+                                "value": ".342"
                             }
                         },
                         {
@@ -133,7 +133,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "67.2"
+                                "value": "68.2"
                             }
                         },
                         {
@@ -151,13 +151,13 @@
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.18"
+                                "value": "1.17"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": "9.84"
+                                "value": "9.96"
                             }
                         },
                         {
@@ -184,13 +184,13 @@
                     "week": 1,
                     "total": {
                         "remaining_games": 0,
-                        "live_games": 2,
-                        "completed_games": 169
+                        "live_games": 0,
+                        "completed_games": 171
                     }
                 }
             }
         ],
-        "time": "52.344083786011ms",
+        "time": "55.556058883667ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
