@@ -121,7 +121,7 @@
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": 4
+                                "value": 5
                             }
                         },
                         {
@@ -190,7 +190,7 @@
                 }
             }
         ],
-        "time": "64.474821090698ms",
+        "time": "57.176113128662ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
