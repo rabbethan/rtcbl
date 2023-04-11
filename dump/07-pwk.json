@@ -70,7 +70,7 @@
                                 "nickname": "Gian",
                                 "guid": "XHSFXYUIQOOIO6PNQDLNTQ3FVI",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "594",
+                                "felo_score": "599",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -190,7 +190,7 @@
                 }
             }
         ],
-        "time": "53.007125854492ms",
+        "time": "49.072980880737ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

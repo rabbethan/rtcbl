@@ -70,7 +70,7 @@
                                 "nickname": "Gian",
                                 "guid": "XHSFXYUIQOOIO6PNQDLNTQ3FVI",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "594",
+                                "felo_score": "599",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,31 +91,31 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "49"
-                            }
-                        },
-                        {
-                            "stat": {
-                                "stat_id": "13",
                                 "value": "51"
                             }
                         },
                         {
                             "stat": {
+                                "stat_id": "13",
+                                "value": "53"
+                            }
+                        },
+                        {
+                            "stat": {
                                 "stat_id": "23",
-                                "value": "140"
+                                "value": "147"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".980"
+                                "value": ".981"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".342"
+                                "value": ".336"
                             }
                         },
                         {
@@ -133,7 +133,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "68.2"
+                                "value": "69.2"
                             }
                         },
                         {
@@ -145,19 +145,19 @@
                         {
                             "stat": {
                                 "stat_id": "37",
-                                "value": "22"
+                                "value": "24"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.17"
+                                "value": "1.19"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": "9.96"
+                                "value": "9.82"
                             }
                         },
                         {
@@ -181,7 +181,7 @@
                 }
             }
         ],
-        "time": "35.583019256592ms",
+        "time": "35.499095916748ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

@@ -86,91 +86,91 @@
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "\/"
+                                "value": "10\/35"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": ""
+                                "value": "4"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": ""
+                                "value": "2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": ""
+                                "value": "12"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ""
+                                "value": "1.000"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ""
+                                "value": ".306"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": ""
+                                "value": "1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "66",
-                                "value": ""
+                                "value": "0"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": ""
+                                "value": "24.1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "30",
-                                "value": ""
+                                "value": "0"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "37",
-                                "value": ""
+                                "value": "4"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": ""
+                                "value": "1.11"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": ""
+                                "value": "9.62"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": ""
+                                "value": "2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": ""
+                                "value": "1"
                             }
                         }
                     ]
@@ -178,20 +178,20 @@
                 "team_points": {
                     "coverage_type": "week",
                     "week": "2",
-                    "total": "0"
+                    "total": "7"
                 },
                 "team_remaining_games": {
                     "coverage_type": "week",
                     "week": "2",
                     "total": {
-                        "remaining_games": 117,
+                        "remaining_games": 99,
                         "live_games": 0,
-                        "completed_games": 0
+                        "completed_games": 18
                     }
                 }
             }
         ],
-        "time": "50.039052963257ms",
+        "time": "62.721014022827ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

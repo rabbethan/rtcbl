@@ -35,7 +35,7 @@
                     "faab_balance": "104"
                 },
                 {
-                    "number_of_moves": 6
+                    "number_of_moves": 7
                 },
                 {
                     "number_of_trades": 0
@@ -44,7 +44,7 @@
                     "roster_adds": {
                         "coverage_type": "week",
                         "coverage_value": 2,
-                        "value": "2"
+                        "value": "3"
                     }
                 },
                 [],
@@ -190,7 +190,7 @@
                 }
             }
         ],
-        "time": "55.882215499878ms",
+        "time": "59.921026229858ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

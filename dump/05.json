@@ -35,7 +35,7 @@
                     "faab_balance": "104"
                 },
                 {
-                    "number_of_moves": 6
+                    "number_of_moves": 7
                 },
                 {
                     "number_of_trades": 0
@@ -44,7 +44,7 @@
                     "roster_adds": {
                         "coverage_type": "week",
                         "coverage_value": 2,
-                        "value": "2"
+                        "value": "3"
                     }
                 },
                 [],
@@ -91,37 +91,37 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "57"
+                                "value": "60"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "56"
+                                "value": "62"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "184"
+                                "value": "192"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".991"
+                                "value": ".992"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".371"
+                                "value": ".363"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "7"
+                                "value": "8"
                             }
                         },
                         {
@@ -133,7 +133,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "40.0"
+                                "value": "46.0"
                             }
                         },
                         {
@@ -151,13 +151,13 @@
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.78"
+                                "value": "1.65"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": "10.80"
+                                "value": "11.93"
                             }
                         },
                         {
@@ -181,7 +181,7 @@
                 }
             }
         ],
-        "time": "34.751176834106ms",
+        "time": "33.672094345093ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

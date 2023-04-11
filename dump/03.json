@@ -92,37 +92,37 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "37"
+                                "value": "41"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "35"
+                                "value": "37"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "123"
+                                "value": "135"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".973"
+                                "value": ".975"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".293"
+                                "value": ".294"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "4"
+                                "value": "5"
                             }
                         },
                         {
@@ -134,7 +134,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "57.0"
+                                "value": "81.1"
                             }
                         },
                         {
@@ -146,31 +146,31 @@
                         {
                             "stat": {
                                 "stat_id": "37",
-                                "value": "37"
+                                "value": "41"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.40"
+                                "value": "1.32"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": "10.58"
+                                "value": "10.29"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "2"
+                                "value": "4"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "5"
+                                "value": "6"
                             }
                         }
                     ]
@@ -182,7 +182,7 @@
                 }
             }
         ],
-        "time": "49.97181892395ms",
+        "time": "31.651020050049ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
