@@ -85,37 +85,37 @@
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "1\/2"
+                                "value": "5\/31"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": 1
+                                "value": 2
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": 4
+                                "value": 5
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": 4
+                                "value": 9
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": null
+                                "value": ".974"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".500"
+                                "value": ".188"
                             }
                         },
                         {
@@ -177,20 +177,20 @@
                 "team_points": {
                     "coverage_type": "week",
                     "week": "3",
-                    "total": 4
+                    "total": 2
                 },
                 "team_remaining_games": {
                     "coverage_type": "week",
                     "week": "3",
                     "total": {
-                        "remaining_games": 112,
-                        "live_games": 1,
-                        "completed_games": 0
+                        "remaining_games": 101,
+                        "live_games": 0,
+                        "completed_games": 14
                     }
                 }
             }
         ],
-        "time": "44.209003448486ms",
+        "time": "53.534030914307ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

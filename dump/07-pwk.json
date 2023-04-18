@@ -32,10 +32,10 @@
                     "waiver_priority": 8
                 },
                 {
-                    "faab_balance": "100"
+                    "faab_balance": "85"
                 },
                 {
-                    "number_of_moves": 12
+                    "number_of_moves": 13
                 },
                 {
                     "number_of_trades": 0
@@ -44,7 +44,7 @@
                     "roster_adds": {
                         "coverage_type": "week",
                         "coverage_value": 3,
-                        "value": "0"
+                        "value": "1"
                     }
                 },
                 [],
@@ -190,7 +190,7 @@
                 }
             }
         ],
-        "time": "46.259880065918ms",
+        "time": "45.301914215088ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

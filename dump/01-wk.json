@@ -85,43 +85,43 @@
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "0\/1"
+                                "value": "6\/24"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": 1
+                                "value": 4
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": 0
+                                "value": 5
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": 0
+                                "value": 6
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": null
+                                "value": "1.000"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".500"
+                                "value": ".345"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": 0
+                                "value": 1
                             }
                         },
                         {
@@ -183,14 +183,14 @@
                     "coverage_type": "week",
                     "week": "3",
                     "total": {
-                        "remaining_games": 106,
-                        "live_games": 2,
-                        "completed_games": 0
+                        "remaining_games": 96,
+                        "live_games": 0,
+                        "completed_games": 13
                     }
                 }
             }
         ],
-        "time": "57.119131088257ms",
+        "time": "58.049917221069ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
