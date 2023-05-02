@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.6\/stats;type=week;week=3",
+        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.6\/stats;type=week;week=4",
         "team": [
             [
                 {
@@ -35,7 +35,7 @@
                     "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": 18
+                    "number_of_moves": 20
                 },
                 {
                     "number_of_trades": 0
@@ -43,8 +43,8 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 4,
-                        "value": "1"
+                        "coverage_value": 5,
+                        "value": "0"
                     }
                 },
                 [],
@@ -70,7 +70,7 @@
                                 "nickname": "~",
                                 "guid": "H2ECUE2NSRU63GI3A7AAEHPOGU",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/4594\/38088347140_abbfe6_64sq.jpg",
-                                "felo_score": "619",
+                                "felo_score": "627",
                                 "felo_tier": "silver"
                             }
                         }
@@ -80,48 +80,48 @@
             {
                 "team_stats": {
                     "coverage_type": "week",
-                    "week": "3",
+                    "week": "4",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "48\/211"
+                                "value": "52\/222"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "32"
+                                "value": "22"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "31"
+                                "value": "18"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "91"
+                                "value": "74"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": "1.000"
+                                "value": ".984"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".313"
+                                "value": ".309"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "2"
+                                "value": "7"
                             }
                         },
                         {
@@ -133,13 +133,13 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "42.1"
+                                "value": "41.2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "30",
-                                "value": "0"
+                                "value": "1"
                             }
                         },
                         {
@@ -151,46 +151,46 @@
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "0.94"
+                                "value": "1.22"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": "7.44"
+                                "value": "12.10"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "4"
+                                "value": "3"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "2"
+                                "value": "4"
                             }
                         }
                     ]
                 },
                 "team_points": {
                     "coverage_type": "week",
-                    "week": "3",
-                    "total": "5"
+                    "week": "4",
+                    "total": "8"
                 },
                 "team_remaining_games": {
                     "coverage_type": "week",
-                    "week": "3",
+                    "week": "4",
                     "total": {
                         "remaining_games": 0,
                         "live_games": 0,
-                        "completed_games": 112
+                        "completed_games": 114
                     }
                 }
             }
         ],
-        "time": "47.080039978027ms",
+        "time": "46.087980270386ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
