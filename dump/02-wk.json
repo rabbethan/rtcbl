@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.2\/stats;type=week;week=5",
+        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.2\/stats;type=week;week=6",
         "team": [
             [
                 {
@@ -35,7 +35,7 @@
                     "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": 7
+                    "number_of_moves": 8
                 },
                 {
                     "number_of_trades": 0
@@ -43,7 +43,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 5,
+                        "coverage_value": 6,
                         "value": "0"
                     }
                 },
@@ -70,7 +70,7 @@
                                 "nickname": "Michael",
                                 "guid": "SIKWSLC7EX4PGT4LT7ZHKHCM7A",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "572",
+                                "felo_score": "569",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -80,12 +80,12 @@
             {
                 "team_stats": {
                     "coverage_type": "week",
-                    "week": "5",
+                    "week": "6",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "6\/20"
+                                "value": "7\/23"
                             }
                         },
                         {
@@ -115,7 +115,7 @@
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".364"
+                                "value": ".385"
                             }
                         },
                         {
@@ -176,21 +176,21 @@
                 },
                 "team_points": {
                     "coverage_type": "week",
-                    "week": "5",
-                    "total": 2
+                    "week": "6",
+                    "total": 6
                 },
                 "team_remaining_games": {
                     "coverage_type": "week",
-                    "week": "5",
+                    "week": "6",
                     "total": {
-                        "remaining_games": 102,
+                        "remaining_games": 96,
                         "live_games": 7,
-                        "completed_games": 2
+                        "completed_games": 7
                     }
                 }
             }
         ],
-        "time": "55.785894393921ms",
+        "time": "47.876119613647ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
