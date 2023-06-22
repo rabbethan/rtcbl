@@ -11,7 +11,7 @@
                     "team_id": "1"
                 },
                 {
-                    "name": "Metro Dade Electric Ponies"
+                    "name": "Westchester Incorporations"
                 },
                 [],
                 {
@@ -22,7 +22,7 @@
                         {
                             "team_logo": {
                                 "size": "large",
-                                "url": "https:\/\/s.yimg.com\/cv\/apiv2\/default\/mlb\/mlb_6.png"
+                                "url": "https:\/\/s.yimg.com\/cv\/apiv2\/default\/mlb\/mlb_10.png"
                             }
                         }
                     ]
@@ -35,7 +35,7 @@
                     "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": 17
+                    "number_of_moves": 20
                 },
                 {
                     "number_of_trades": 0
@@ -43,7 +43,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 9,
+                        "coverage_value": 12,
                         "value": "0"
                     }
                 },
@@ -70,7 +70,7 @@
                                 "nickname": "Michael",
                                 "guid": "PZOIWFQWSGPVWYNL5B5QKII7XU",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "647",
+                                "felo_score": "640",
                                 "felo_tier": "silver"
                             }
                         }
@@ -91,19 +91,19 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "241"
+                                "value": "324"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "252"
+                                "value": "360"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "795"
+                                "value": "1073"
                             }
                         },
                         {
@@ -121,19 +121,19 @@
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "14"
+                                "value": "21"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "66",
-                                "value": "0"
+                                "value": "2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "446.2"
+                                "value": "611.2"
                             }
                         },
                         {
@@ -145,31 +145,31 @@
                         {
                             "stat": {
                                 "stat_id": "37",
-                                "value": "200"
+                                "value": "281"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.33"
+                                "value": "1.31"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": "9.09"
+                                "value": "9.21"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "32"
+                                "value": "45"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "89",
-                                "value": "10"
+                                "value": "12"
                             }
                         }
                     ]
@@ -181,7 +181,7 @@
                 }
             }
         ],
-        "time": "32.793998718262ms",
+        "time": "35.814046859741ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
