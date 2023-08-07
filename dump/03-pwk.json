@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.3\/stats;type=week;week=14",
+        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.3\/stats;type=week;week=16",
         "team": [
             [
                 {
@@ -35,7 +35,7 @@
                     "faab_balance": "78"
                 },
                 {
-                    "number_of_moves": 90
+                    "number_of_moves": 107
                 },
                 {
                     "number_of_trades": "1"
@@ -43,8 +43,8 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 15,
-                        "value": "1"
+                        "coverage_value": 17,
+                        "value": "2"
                     }
                 },
                 [],
@@ -71,7 +71,7 @@
                                 "guid": "PVBUYNMHVCJRC3JDSXTUEGP6Z4",
                                 "is_commissioner": "1",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/4576\/37727582890_54b83d_64sq.jpg",
-                                "felo_score": "593",
+                                "felo_score": "592",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -81,48 +81,48 @@
             {
                 "team_stats": {
                     "coverage_type": "week",
-                    "week": "14",
+                    "week": "16",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "44\/203"
+                                "value": "50\/206"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "24"
+                                "value": "34"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "32"
+                                "value": "29"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "23",
-                                "value": "95"
+                                "value": "89"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "54",
-                                "value": ".983"
+                                "value": ".975"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "4",
-                                "value": ".288"
+                                "value": ".339"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "62",
-                                "value": "7"
+                                "value": "8"
                             }
                         },
                         {
@@ -134,31 +134,31 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "51.1"
+                                "value": "57.2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "30",
-                                "value": "0"
+                                "value": "1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "37",
-                                "value": "31"
+                                "value": "33"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.29"
+                                "value": "1.42"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "57",
-                                "value": "10.69"
+                                "value": "6.87"
                             }
                         },
                         {
@@ -177,21 +177,21 @@
                 },
                 "team_points": {
                     "coverage_type": "week",
-                    "week": "14",
-                    "total": "2"
+                    "week": "16",
+                    "total": "8"
                 },
                 "team_remaining_games": {
                     "coverage_type": "week",
-                    "week": "14",
+                    "week": "16",
                     "total": {
                         "remaining_games": 0,
                         "live_games": 0,
-                        "completed_games": 117
+                        "completed_games": 110
                     }
                 }
             }
         ],
-        "time": "48.578977584839ms",
+        "time": "41.800022125244ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
