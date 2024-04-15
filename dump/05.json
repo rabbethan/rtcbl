@@ -1,49 +1,49 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/422.l.59242.t.5\/stats",
+        "yahoo:uri": "\/fantasy\/v2\/team\/431.l.21592.t.5\/stats",
         "team": [
             [
                 {
-                    "team_key": "422.l.59242.t.5"
+                    "team_key": "431.l.21592.t.5"
                 },
                 {
                     "team_id": "5"
                 },
                 {
-                    "name": "Deep Sea Devers"
+                    "name": "Sho-Time Bucks"
                 },
                 [],
                 {
-                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/2023\/b1\/59242\/5"
+                    "url": "https:\/\/baseball.fantasysports.yahoo.com\/b1\/21592\/5"
                 },
                 {
                     "team_logos": [
                         {
                             "team_logo": {
                                 "size": "large",
-                                "url": "https:\/\/s.yimg.com\/cv\/apiv2\/default\/mlb\/mlb_5.png"
+                                "url": "https:\/\/yahoofantasysports-res.cloudinary.com\/image\/upload\/t_s192sq\/fantasy-logos\/041f3147ae698dabf877bfc632d8d1f393211a3c2308d0e2906ff86f189726b2.png"
                             }
                         }
                     ]
                 },
                 [],
                 {
-                    "waiver_priority": 6
+                    "waiver_priority": 7
                 },
                 {
-                    "faab_balance": "104"
+                    "faab_balance": "30"
                 },
                 {
-                    "number_of_moves": 28
+                    "number_of_moves": 17
                 },
                 {
-                    "number_of_trades": "1"
+                    "number_of_trades": 0
                 },
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 25,
+                        "coverage_value": 3,
                         "value": "0"
                     }
                 },
@@ -60,18 +60,18 @@
                     "auction_budget_total": "260"
                 },
                 {
-                    "auction_budget_spent": 256
+                    "auction_budget_spent": 260
                 },
                 {
                     "managers": [
                         {
                             "manager": {
                                 "manager_id": "5",
-                                "nickname": "Julio",
-                                "guid": "6WXWCRWB3KDT4TTU7LZ2Q2D72E",
-                                "image_url": "https:\/\/s.yimg.com\/ag\/images\/60c2d08a-3488-4160-81d2-fc1cf6160a37xl_64sq.jpg",
-                                "felo_score": "569",
-                                "felo_tier": "bronze"
+                                "nickname": "Jose",
+                                "guid": "QHJTRJSKD7P2HPLHU6FUH36OQE",
+                                "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "626",
+                                "felo_tier": "silver"
                             }
                         }
                     ]
@@ -80,7 +80,7 @@
             {
                 "team_stats": {
                     "coverage_type": "season",
-                    "season": "2023",
+                    "season": "2024",
                     "stats": [
                         {
                             "stat": {
@@ -91,97 +91,79 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "715"
+                                "value": "72"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "stat_id": "12",
+                                "value": "19"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "718"
+                                "value": "86"
                             }
                         },
                         {
                             "stat": {
-                                "stat_id": "23",
-                                "value": "2272"
+                                "stat_id": "16",
+                                "value": "9"
                             }
                         },
                         {
                             "stat": {
-                                "stat_id": "54",
-                                "value": ".982"
-                            }
-                        },
-                        {
-                            "stat": {
-                                "stat_id": "4",
-                                "value": ".335"
-                            }
-                        },
-                        {
-                            "stat": {
-                                "stat_id": "62",
-                                "value": "66"
-                            }
-                        },
-                        {
-                            "stat": {
-                                "stat_id": "66",
-                                "value": "4"
+                                "stat_id": "55",
+                                "value": ".720"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "995.2"
+                                "value": "110.2"
                             }
                         },
                         {
                             "stat": {
-                                "stat_id": "30",
-                                "value": "2"
+                                "stat_id": "32",
+                                "value": "7"
                             }
                         },
                         {
                             "stat": {
-                                "stat_id": "37",
-                                "value": "437"
+                                "stat_id": "42",
+                                "value": "100"
+                            }
+                        },
+                        {
+                            "stat": {
+                                "stat_id": "26",
+                                "value": "4.88"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.22"
-                            }
-                        },
-                        {
-                            "stat": {
-                                "stat_id": "57",
-                                "value": "9.42"
+                                "value": "1.38"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "69"
-                            }
-                        },
-                        {
-                            "stat": {
-                                "stat_id": "89",
-                                "value": "65"
+                                "value": "5"
                             }
                         }
                     ]
                 },
                 "team_points": {
                     "coverage_type": "season",
-                    "season": "2023",
+                    "season": "2024",
                     "total": "0"
                 }
             }
         ],
-        "time": "34.823894500732ms",
+        "time": "28.886079788208ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
