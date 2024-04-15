@@ -88,7 +88,7 @@
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "0\/3"
+                                "value": "0\/4"
                             }
                         },
                         {
@@ -169,13 +169,13 @@
                     "week": "3",
                     "total": {
                         "remaining_games": 116,
-                        "live_games": 2,
-                        "completed_games": 0
+                        "live_games": 0,
+                        "completed_games": 2
                     }
                 }
             }
         ],
-        "time": "42.189121246338ms",
+        "time": "58.727979660034ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

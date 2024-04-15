@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/431.l.21592.t.8\/stats;type=week;week=1",
+        "yahoo:uri": "\/fantasy\/v2\/team\/431.l.21592.t.8\/stats",
         "team": [
             [
                 {
@@ -82,49 +82,49 @@
             ],
             {
                 "team_stats": {
-                    "coverage_type": "week",
-                    "week": "1",
+                    "coverage_type": "season",
+                    "season": "2024",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "87\/316"
+                                "value": ""
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "51"
+                                "value": "91"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "18"
+                                "value": "31"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "59"
+                                "value": "104"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "4"
+                                "value": "9"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "55",
-                                "value": ".857"
+                                "value": ".876"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "70.0"
+                                "value": "123.2"
                             }
                         },
                         {
@@ -136,46 +136,37 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "76"
+                                "value": "128"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "3.09"
+                                "value": "3.06"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.19"
+                                "value": "1.16"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "5"
+                                "value": "10"
                             }
                         }
                     ]
                 },
                 "team_points": {
-                    "coverage_type": "week",
-                    "week": "1",
-                    "total": "6"
-                },
-                "team_remaining_games": {
-                    "coverage_type": "week",
-                    "week": "1",
-                    "total": {
-                        "remaining_games": 0,
-                        "live_games": 0,
-                        "completed_games": 163
-                    }
+                    "coverage_type": "season",
+                    "season": "2024",
+                    "total": "0"
                 }
             }
         ],
-        "time": "47.838926315308ms",
+        "time": "30.872106552124ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

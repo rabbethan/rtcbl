@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/431.l.21592.t.4\/stats;type=week;week=1",
+        "yahoo:uri": "\/fantasy\/v2\/team\/431.l.21592.t.4\/stats",
         "team": [
             [
                 {
@@ -79,49 +79,49 @@
             ],
             {
                 "team_stats": {
-                    "coverage_type": "week",
-                    "week": "1",
+                    "coverage_type": "season",
+                    "season": "2024",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "113\/353"
+                                "value": ""
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "56"
+                                "value": "90"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "12"
+                                "value": "17"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "61"
+                                "value": "84"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "8"
+                                "value": "15"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "55",
-                                "value": ".892"
+                                "value": ".845"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "91.0"
+                                "value": "138.0"
                             }
                         },
                         {
@@ -133,13 +133,13 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "97"
+                                "value": "146"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "4.15"
+                                "value": "4.17"
                             }
                         },
                         {
@@ -151,28 +151,19 @@
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "6"
+                                "value": "9"
                             }
                         }
                     ]
                 },
                 "team_points": {
-                    "coverage_type": "week",
-                    "week": "1",
-                    "total": "6"
-                },
-                "team_remaining_games": {
-                    "coverage_type": "week",
-                    "week": "1",
-                    "total": {
-                        "remaining_games": 0,
-                        "live_games": 0,
-                        "completed_games": 168
-                    }
+                    "coverage_type": "season",
+                    "season": "2024",
+                    "total": "0"
                 }
             }
         ],
-        "time": "71.229934692383ms",
+        "time": "38.985013961792ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
