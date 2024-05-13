@@ -37,7 +37,7 @@
                     "faab_balance": "40"
                 },
                 {
-                    "number_of_moves": 7
+                    "number_of_moves": 8
                 },
                 {
                     "number_of_trades": 0
@@ -45,7 +45,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 6,
+                        "coverage_value": 7,
                         "value": "0"
                     }
                 },
@@ -73,7 +73,7 @@
                                 "guid": "VHRXRHHWJVLQWOB75OTYULWWS4",
                                 "is_current_login": "1",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/070306a6-8f6b-4ecc-9642-ac048ba3e041_64sq.jpg",
-                                "felo_score": "667",
+                                "felo_score": "678",
                                 "felo_tier": "silver"
                             }
                         }
@@ -94,37 +94,37 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "190"
+                                "value": "223"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "63"
+                                "value": "76"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "199"
+                                "value": "243"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "26"
+                                "value": "28"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "55",
-                                "value": ".813"
+                                "value": ".827"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "275.2"
+                                "value": "333.1"
                             }
                         },
                         {
@@ -136,25 +136,25 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "267"
+                                "value": "325"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "3.53"
+                                "value": "3.48"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.20"
+                                "value": "1.19"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "22"
+                                "value": "27"
                             }
                         }
                     ]
@@ -166,7 +166,7 @@
                 }
             }
         ],
-        "time": "34.925937652588ms",
+        "time": "33.582925796509ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

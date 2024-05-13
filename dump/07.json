@@ -43,8 +43,8 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 6,
-                        "value": "1"
+                        "coverage_value": 7,
+                        "value": "0"
                     }
                 },
                 [],
@@ -70,7 +70,7 @@
                                 "nickname": "Juanky",
                                 "guid": "PVBUYNMHVCJRC3JDSXTUEGP6Z4",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/4576\/37727582890_54b83d_64sq.jpg",
-                                "felo_score": "575",
+                                "felo_score": "580",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,67 +91,67 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "185"
+                                "value": "222"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "43"
+                                "value": "51"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "169"
+                                "value": "200"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "39"
+                                "value": "50"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "55",
-                                "value": ".780"
+                                "value": ".768"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "182.1"
+                                "value": "225.0"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "32",
-                                "value": "13"
+                                "value": "16"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "180"
+                                "value": "212"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "4.05"
+                                "value": "3.88"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.15"
+                                "value": "1.09"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "5"
+                                "value": "9"
                             }
                         }
                     ]
@@ -163,7 +163,7 @@
                 }
             }
         ],
-        "time": "42.094945907593ms",
+        "time": "32.44686126709ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
