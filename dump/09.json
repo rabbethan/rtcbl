@@ -35,7 +35,7 @@
                     "faab_balance": "30"
                 },
                 {
-                    "number_of_moves": 20
+                    "number_of_moves": 22
                 },
                 {
                     "number_of_trades": "1"
@@ -43,7 +43,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 8,
+                        "coverage_value": 9,
                         "value": "0"
                     }
                 },
@@ -70,7 +70,7 @@
                                 "nickname": "Gian",
                                 "guid": "XHSFXYUIQOOIO6PNQDLNTQ3FVI",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "567",
+                                "felo_score": "563",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,55 +91,55 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "213"
+                                "value": "244"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "61"
+                                "value": "72"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "239"
+                                "value": "275"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "38"
+                                "value": "41"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "55",
-                                "value": ".691"
+                                "value": ".702"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "287.2"
+                                "value": "326.0"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "32",
-                                "value": "11"
+                                "value": "12"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "293"
+                                "value": "328"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "3.35"
+                                "value": "3.37"
                             }
                         },
                         {
@@ -151,7 +151,7 @@
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "24"
+                                "value": "26"
                             }
                         }
                     ]
@@ -163,7 +163,7 @@
                 }
             }
         ],
-        "time": "32.438993453979ms",
+        "time": "37.050008773804ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
