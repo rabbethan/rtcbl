@@ -43,7 +43,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 9,
+                        "coverage_value": 10,
                         "value": "0"
                     }
                 },
@@ -70,7 +70,7 @@
                                 "nickname": "Michael",
                                 "guid": "SIKWSLC7EX4PGT4LT7ZHKHCM7A",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "557",
+                                "felo_score": "561",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,55 +91,55 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "282"
+                                "value": "317"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "61"
+                                "value": "67"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "241"
+                                "value": "266"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "48"
+                                "value": "50"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "55",
-                                "value": ".753"
+                                "value": ".750"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "456.0"
+                                "value": "501.1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "32",
-                                "value": "23"
+                                "value": "24"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "475"
+                                "value": "523"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "3.08"
+                                "value": "3.11"
                             }
                         },
                         {
@@ -151,7 +151,7 @@
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "45"
+                                "value": "49"
                             }
                         }
                     ]
@@ -163,7 +163,7 @@
                 }
             }
         ],
-        "time": "30.091047286987ms",
+        "time": "33.557891845703ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

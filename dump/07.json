@@ -35,7 +35,7 @@
                     "faab_balance": "1"
                 },
                 {
-                    "number_of_moves": 33
+                    "number_of_moves": 36
                 },
                 {
                     "number_of_trades": "1"
@@ -43,8 +43,8 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 9,
-                        "value": "1"
+                        "coverage_value": 10,
+                        "value": "0"
                     }
                 },
                 [],
@@ -70,7 +70,7 @@
                                 "nickname": "Juanky",
                                 "guid": "PVBUYNMHVCJRC3JDSXTUEGP6Z4",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/4576\/37727582890_54b83d_64sq.jpg",
-                                "felo_score": "579",
+                                "felo_score": "577",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,55 +91,55 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "278"
+                                "value": "311"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "71"
+                                "value": "81"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "255"
+                                "value": "295"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "57"
+                                "value": "62"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "55",
-                                "value": ".760"
+                                "value": ".765"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "298.1"
+                                "value": "343.2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "32",
-                                "value": "23"
+                                "value": "27"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "284"
+                                "value": "341"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "3.95"
+                                "value": "3.90"
                             }
                         },
                         {
@@ -151,7 +151,7 @@
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "14"
+                                "value": "18"
                             }
                         }
                     ]
@@ -163,7 +163,7 @@
                 }
             }
         ],
-        "time": "39.513111114502ms",
+        "time": "28.199911117554ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

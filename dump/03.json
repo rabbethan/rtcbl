@@ -35,7 +35,7 @@
                     "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": 27
+                    "number_of_moves": 30
                 },
                 {
                     "number_of_trades": "1"
@@ -43,7 +43,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 9,
+                        "coverage_value": 10,
                         "value": "1"
                     }
                 },
@@ -70,7 +70,7 @@
                                 "nickname": "Julio",
                                 "guid": "6WXWCRWB3KDT4TTU7LZ2Q2D72E",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/60c2d08a-3488-4160-81d2-fc1cf6160a37xl_64sq.jpg",
-                                "felo_score": "574",
+                                "felo_score": "569",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,55 +91,55 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "249"
+                                "value": "275"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "60"
+                                "value": "63"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "241"
+                                "value": "264"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "61"
+                                "value": "70"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "55",
-                                "value": ".732"
+                                "value": ".725"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "411.1"
+                                "value": "448.1"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "32",
-                                "value": "15"
+                                "value": "18"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "395"
+                                "value": "430"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "3.76"
+                                "value": "3.71"
                             }
                         },
                         {
@@ -151,7 +151,7 @@
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "29"
+                                "value": "32"
                             }
                         }
                     ]
@@ -163,7 +163,7 @@
                 }
             }
         ],
-        "time": "31.552076339722ms",
+        "time": "28.705835342407ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
