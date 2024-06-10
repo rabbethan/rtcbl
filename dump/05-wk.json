@@ -1,7 +1,7 @@
 {
     "fantasy_content": {
         "xml:lang": "en-US",
-        "yahoo:uri": "\/fantasy\/v2\/team\/431.l.21592.t.5\/stats;type=week;week=10",
+        "yahoo:uri": "\/fantasy\/v2\/team\/431.l.21592.t.5\/stats;type=week;week=11",
         "team": [
             [
                 {
@@ -35,7 +35,7 @@
                     "faab_balance": "30"
                 },
                 {
-                    "number_of_moves": 40
+                    "number_of_moves": 43
                 },
                 {
                     "number_of_trades": "1"
@@ -43,7 +43,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 10,
+                        "coverage_value": 11,
                         "value": "0"
                     }
                 },
@@ -62,6 +62,7 @@
                 {
                     "auction_budget_spent": 260
                 },
+                [],
                 {
                     "managers": [
                         {
@@ -70,7 +71,7 @@
                                 "nickname": "Jose",
                                 "guid": "QHJTRJSKD7P2HPLHU6FUH36OQE",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "644",
+                                "felo_score": "642",
                                 "felo_tier": "silver"
                             }
                         }
@@ -80,12 +81,12 @@
             {
                 "team_stats": {
                     "coverage_type": "week",
-                    "week": "10",
+                    "week": "11",
                     "stats": [
                         {
                             "stat": {
                                 "stat_id": "60",
-                                "value": "5\/20"
+                                "value": "0\/1"
                             }
                         },
                         {
@@ -109,13 +110,13 @@
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": 1
+                                "value": 0
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "55",
-                                "value": ".550"
+                                "value": ".000"
                             }
                         },
                         {
@@ -158,21 +159,21 @@
                 },
                 "team_points": {
                     "coverage_type": "week",
-                    "week": "10",
-                    "total": 1
+                    "week": "11",
+                    "total": "0"
                 },
                 "team_remaining_games": {
                     "coverage_type": "week",
-                    "week": "10",
+                    "week": "11",
                     "total": {
-                        "remaining_games": 99,
-                        "live_games": 3,
-                        "completed_games": 6
+                        "remaining_games": 108,
+                        "live_games": 1,
+                        "completed_games": 0
                     }
                 }
             }
         ],
-        "time": "65.234184265137ms",
+        "time": "48.073053359985ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }

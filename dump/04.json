@@ -35,7 +35,7 @@
                     "faab_balance": "100"
                 },
                 {
-                    "number_of_moves": 11
+                    "number_of_moves": 12
                 },
                 {
                     "number_of_trades": 0
@@ -43,7 +43,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 10,
+                        "coverage_value": 11,
                         "value": "0"
                     }
                 },
@@ -62,6 +62,7 @@
                 {
                     "auction_budget_spent": 260
                 },
+                [],
                 {
                     "managers": [
                         {
@@ -70,7 +71,7 @@
                                 "nickname": "Michael",
                                 "guid": "SIKWSLC7EX4PGT4LT7ZHKHCM7A",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/default_user_profile_pic_64sq.jpg",
-                                "felo_score": "561",
+                                "felo_score": "567",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -91,25 +92,25 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "317"
+                                "value": "360"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "67"
+                                "value": "77"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "266"
+                                "value": "300"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "50"
+                                "value": "66"
                             }
                         },
                         {
@@ -121,7 +122,7 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "501.1"
+                                "value": "556.0"
                             }
                         },
                         {
@@ -133,25 +134,25 @@
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "523"
+                                "value": "576"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "3.11"
+                                "value": "3.06"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.11"
+                                "value": "1.09"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "49"
+                                "value": "55"
                             }
                         }
                     ]
@@ -163,7 +164,7 @@
                 }
             }
         ],
-        "time": "33.557891845703ms",
+        "time": "30.031204223633ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
