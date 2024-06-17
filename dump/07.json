@@ -35,7 +35,7 @@
                     "faab_balance": "1"
                 },
                 {
-                    "number_of_moves": 37
+                    "number_of_moves": 38
                 },
                 {
                     "number_of_trades": "1"
@@ -43,7 +43,7 @@
                 {
                     "roster_adds": {
                         "coverage_type": "week",
-                        "coverage_value": 11,
+                        "coverage_value": 12,
                         "value": "0"
                     }
                 },
@@ -71,7 +71,7 @@
                                 "nickname": "Juanky",
                                 "guid": "PVBUYNMHVCJRC3JDSXTUEGP6Z4",
                                 "image_url": "https:\/\/s.yimg.com\/ag\/images\/4576\/37727582890_54b83d_64sq.jpg",
-                                "felo_score": "574",
+                                "felo_score": "578",
                                 "felo_tier": "bronze"
                             }
                         }
@@ -92,25 +92,25 @@
                         {
                             "stat": {
                                 "stat_id": "7",
-                                "value": "346"
+                                "value": "375"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "12",
-                                "value": "91"
+                                "value": "101"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "13",
-                                "value": "323"
+                                "value": "361"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "16",
-                                "value": "64"
+                                "value": "72"
                             }
                         },
                         {
@@ -122,37 +122,37 @@
                         {
                             "stat": {
                                 "stat_id": "50",
-                                "value": "384.0"
+                                "value": "414.2"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "32",
-                                "value": "32"
+                                "value": "38"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "42",
-                                "value": "382"
+                                "value": "417"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "26",
-                                "value": "3.91"
+                                "value": "3.80"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "27",
-                                "value": "1.18"
+                                "value": "1.16"
                             }
                         },
                         {
                             "stat": {
                                 "stat_id": "83",
-                                "value": "20"
+                                "value": "22"
                             }
                         }
                     ]
@@ -164,7 +164,7 @@
                 }
             }
         ],
-        "time": "29.500961303711ms",
+        "time": "27.992010116577ms",
         "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
         "refresh_rate": "60"
     }
